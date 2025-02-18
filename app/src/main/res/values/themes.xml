@@ -1,0 +1,13 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <style name="Base.Theme.RecipesApp" parent="Theme.Material3.DayNight.NoActionBar">
+        <item name="colorPrimary">@color/primary</item>
+        <item name="android:colorPrimaryDark">@color/primary</item>
+        <item name="colorOnPrimary">@color/white</item>
+        <item name="colorSecondary">@color/accent</item>
+        <item name="android:statusBarColor">@color/primaryDark</item>
+        <item name="android:windowBackground">@color/primaryLight</item>  <!-- Sets the app background -->
+        <item name="android:colorBackground">@color/primaryLight</item>  <!-- Ensures views use the background -->
+    </style>
+
+    <style name="Theme.RecipesApp" parent="Base.Theme.RecipesApp" />
+</resources>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="primary">#2196F3</color>  <!-- Bright Blue -->
+    <color name="primaryDark">#1976D2</color>  <!-- Darker Blue -->
+    <color name="primaryLight">#BBDEFB</color>  <!-- Lighter Blue -->
+    <color name="accent">#FF5252</color>  <!-- Keeping the same red accent -->
+    <color name="black">#FF000000</color>  <!-- Black remains unchanged -->
+    <color name="white">#a8d7f0</color>  <!-- Slightly Greyish White -->
+</resources>
